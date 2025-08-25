@@ -1,0 +1,2 @@
+# Zoran-Intuition-Mimetique-Demo
+Simulation Zoran d’une intuition mimétique : décision pré-verbale par accumulation contextuelle et activation mnésique non linéaire.
