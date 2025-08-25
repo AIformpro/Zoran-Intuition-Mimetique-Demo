@@ -1,0 +1,1 @@
+Implémentation d’une intuition mimétique dans Zoran : une décision “pré-verbale” simulée via accumulation de fragments mnésiques, sans raisonnement formel. Démo Python, schéma, balises `.zgs`, mémoire fractale et rollback ΔM11.3 intégrés.
